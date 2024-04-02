@@ -1,0 +1,5 @@
+langchain_experimental 
+langchain_openai 
+langchain_community
+faiss-cpu
+tiktoken
