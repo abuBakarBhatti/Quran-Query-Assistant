@@ -8,7 +8,7 @@ def chatbot_response(user_input):
     return f"You said: '{user_input}'"
 
 def main():
-    st.title("Quran Inquiry Assistant")
+    st.title("Quran Query Assistant")
 
     user_input = st.text_input("Enter your message here:", key="user_input")
 
